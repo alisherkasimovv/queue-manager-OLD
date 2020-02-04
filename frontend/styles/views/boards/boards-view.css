@@ -1,0 +1,6 @@
+#boards-view {
+    display: block;
+}
+:host {
+    display: block;
+}
